@@ -90,11 +90,13 @@ Resultado esperado:
 
 # 6. Definición de servicios
 Servicios principales:
+
        ## 6.1 Auditoría básica de seguridad
           - Descripción:
           Evaluación general de seguridad digital en dispositivos y red.
           - Problema que resuelve:
           Usuarios con configuraciones inseguras sin saberlo.
+          
        ## 6.2 Soporte técnico
            - Incluye:
                       Windows
@@ -102,15 +104,18 @@ Servicios principales:
                       Dispositivos móviles
             - Problema:
                     Fallas técnicas, bajo rendimiento, configuraciones incorrectas.
+                    
        ## 6.3 Diagnóstico de red WiFi
             - Incluye:
                     Evaluación de señal
                     Seguridad del router
                     Posibles intrusos
+                    
         ## 6.4 Configuración segura de red
                     Cambio de credenciales
                     Ajustes de seguridad
                     Segmentación básica
+                    
         ## 6.5 Educación básica en ciberseguridad
                     Buenas prácticas
                     Prevención de ataques
