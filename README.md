@@ -196,7 +196,8 @@ El modelo permite crecimiento en varias direcciones:
 ----------------------------
 
 # 11. Casos de uso
-Caso 1: Usuario doméstico
+
+# Caso 1: Usuario doméstico
 
 Problema:
 Lentitud y sospecha de intrusión
